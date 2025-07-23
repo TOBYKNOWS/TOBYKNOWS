@@ -49,12 +49,14 @@
 
 ---
 
-## 🌍 Connect With Me
 
-- 🐦 [Twitter](https://x.com/tobyyknows?s=21)  
-- 💻 [GitHub](https://github.com/TOBYKNOWS)  
-- 📷 [Instagram](https://www.instagram.com/_toby.gram)  
-- 💬 [WhatsApp](https://whatsapp.com/dl)
+### 📫 Connect with Me
+- Email: [eskoma50@gmail.com](mailto:eskoma50@gmail.com)
+- LinkedIn: [linkedin.com/in/tobyknows](https://www.linkedin.com/in/tobyknows)
+- GitHub: [github.com/TOBYKNOWS](https://github.com/TOBYKNOWS)
+- Twitter: [@tobyyknows](https://x.com/tobyyknows?s=21)
+- WhatsApp: [Click to chat](https://whatsapp.com/dl/)
+- Instagram: [@_toby.gram](https://www.instagram.com/_toby.gram)
 
 ---
 
