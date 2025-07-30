@@ -10,7 +10,7 @@
 
 🎓 B.Sc. in **Economics** | 📊 Certified **Data Analyst** (Qudroids Academy)  
 💻 **Web Developer** | 🔧 **Computer Technician** | 🎹 **Versatile Pianist**  
-🧠 Self-taught in **Python**, driven by passion and curiosity
+🧠 **Python** lover, driven by passion and curiosity
 
 🛠️ I build things that matter – like my **Driver & Vehicle Management System** (Flask + Django)  
 📈 I analyze and visualize data using **Power BI**, **Excel**, and **SQL**  
