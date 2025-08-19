@@ -45,7 +45,7 @@
 ## 📂 Pinned Projects
 
 - 🚗 [Driver & Vehicle Manager](https://github.com/TOBYKNOWS) *(Flask + Django based app for fleet management)*  
-- 📊 [Django-based House Rent Management System ] *(Tenants + Invoices + Rentals)](https://github.com/TOBYKNOWS/House-Rent-App.git)* *(A Django-based house rent management system that helps manage tenants, invoices, and rental properties.)*
+- 📊 [Django-based House Rent Management System (https://github.com/TOBYKNOWS/House-Rent-App.git)] *(Tenants + Invoices + Rentals)*(A Django-based house rent management system that helps manage tenants, invoices, and rental properties.)*
 
 ---
 
