@@ -8,13 +8,16 @@
 
 ## 📌 About Me
 
-🎓 B.Sc. in **Economics** | 📊 Certified **Data Analyst** (Qudroids Academy)  
-💻 **Web Developer** | 🔧 **Computer Technician** | 🎹 **Versatile Pianist**  
+🎓 B.Sc. in **Economics** | 📊 Certified **Data Analyst** (Qudroids Academy)
+
+💻 **Web Developer** | 🔧 **Computer Technician** | 🎹 **Versatile Pianist**
+
 🧠 **Python** lover, driven by passion and curiosity
 
 🛠️ I build things that matter – like my **Driver & Vehicle Management System** (Flask + Django),  **Django-based House Rent Management System**
 
-📈 I analyze and visualize data using **Power BI**, **Excel**, and **SQL**  
+📈 I analyze and visualize data using **Power BI**, **Excel**, and **SQL**
+
 🚀 Always learning: diving deeper into **Machine Learning**, **Backend Engineering**, and **Data Engineering**
 
 ---
